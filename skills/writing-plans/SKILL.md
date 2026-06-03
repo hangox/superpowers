@@ -1,6 +1,6 @@
 ---
 name: writing-plans
-description: Use when you have a spec or requirements for a multi-step task, before touching code
+description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Turns a spec or requirements into a written multi-step implementation plan."
 ---
 
 # Writing Plans

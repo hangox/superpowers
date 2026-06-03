@@ -1,6 +1,6 @@
 ---
 name: brainstorming
-description: "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation."
+description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Explores user intent, requirements, and design before implementation."
 ---
 
 # Brainstorming Ideas Into Designs

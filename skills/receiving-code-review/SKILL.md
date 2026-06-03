@@ -1,6 +1,6 @@
 ---
 name: receiving-code-review
-description: Use when receiving code review feedback, before implementing suggestions, especially if feedback seems unclear or technically questionable - requires technical rigor and verification, not performative agreement or blind implementation
+description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Processes code-review feedback with technical rigor and verification."
 ---
 
 # Code Review Reception

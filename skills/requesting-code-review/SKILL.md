@@ -1,6 +1,6 @@
 ---
 name: requesting-code-review
-description: Use when completing tasks, implementing major features, or before merging to verify work meets requirements
+description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Requests verification that work meets requirements before merge."
 ---
 
 # Requesting Code Review

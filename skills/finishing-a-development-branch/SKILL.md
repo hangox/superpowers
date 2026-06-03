@@ -1,6 +1,6 @@
 ---
 name: finishing-a-development-branch
-description: Use when implementation is complete, all tests pass, and you need to decide how to integrate the work - guides completion of development work by presenting structured options for merge, PR, or cleanup
+description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Presents structured options to merge, PR, or clean up finished work."
 ---
 
 # Finishing a Development Branch

@@ -1,6 +1,6 @@
 ---
 name: subagent-driven-development
-description: Use when executing implementation plans with independent tasks in the current session
+description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Executes implementation plans with independent tasks via subagents."
 ---
 
 # Subagent-Driven Development

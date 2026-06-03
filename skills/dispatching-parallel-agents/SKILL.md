@@ -1,6 +1,6 @@
 ---
 name: dispatching-parallel-agents
-description: Use when facing 2+ independent tasks that can be worked on without shared state or sequential dependencies
+description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Coordinates 2+ independent tasks across parallel agents."
 ---
 
 # Dispatching Parallel Agents

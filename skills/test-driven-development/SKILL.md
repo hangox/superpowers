@@ -1,6 +1,6 @@
 ---
 name: test-driven-development
-description: Use when implementing any feature or bugfix, before writing implementation code
+description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. RED-GREEN-REFACTOR test-driven development workflow."
 ---
 
 # Test-Driven Development (TDD)

@@ -1,6 +1,6 @@
 ---
 name: executing-plans
-description: Use when you have a written implementation plan to execute in a separate session with review checkpoints
+description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Executes a written implementation plan with review checkpoints."
 ---
 
 # Executing Plans

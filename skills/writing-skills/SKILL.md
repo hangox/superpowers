@@ -1,6 +1,6 @@
 ---
 name: writing-skills
-description: Use when creating new skills, editing existing skills, or verifying skills work before deployment
+description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Guidance for creating, editing, and verifying skills."
 ---
 
 # Writing Skills

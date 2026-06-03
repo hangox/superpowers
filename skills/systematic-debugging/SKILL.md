@@ -1,6 +1,6 @@
 ---
 name: systematic-debugging
-description: Use when encountering any bug, test failure, or unexpected behavior, before proposing fixes
+description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Systematic root-cause workflow for bugs, test failures, and unexpected behavior."
 ---
 
 # Systematic Debugging
