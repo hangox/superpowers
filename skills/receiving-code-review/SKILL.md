@@ -1,6 +1,7 @@
 ---
 name: receiving-code-review
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Processes code-review feedback with technical rigor and verification."
+description: "Processes code-review feedback with technical rigor and verification."
+disable-model-invocation: true
 ---
 
 # Code Review Reception

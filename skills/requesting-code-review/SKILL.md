@@ -1,6 +1,7 @@
 ---
 name: requesting-code-review
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Requests verification that work meets requirements before merge."
+description: "Requests verification that work meets requirements before merge."
+disable-model-invocation: true
 ---
 
 # Requesting Code Review

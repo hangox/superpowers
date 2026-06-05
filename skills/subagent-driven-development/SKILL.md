@@ -1,6 +1,7 @@
 ---
 name: subagent-driven-development
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Executes implementation plans with independent tasks via subagents."
+description: "Executes implementation plans with independent tasks via subagents."
+disable-model-invocation: true
 ---
 
 # Subagent-Driven Development

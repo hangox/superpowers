@@ -1,6 +1,7 @@
 ---
 name: brainstorming
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Explores user intent, requirements, and design before implementation."
+description: "Explores user intent, requirements, and design before implementation."
+disable-model-invocation: true
 ---
 
 # Brainstorming Ideas Into Designs

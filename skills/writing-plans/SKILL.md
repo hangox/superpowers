@@ -1,6 +1,7 @@
 ---
 name: writing-plans
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Turns a spec or requirements into a written multi-step implementation plan."
+description: "Turns a spec or requirements into a written multi-step implementation plan."
+disable-model-invocation: true
 ---
 
 # Writing Plans
@@ -135,13 +136,20 @@ If you find issues, fix them inline. No need to re-review — just fix and move 
 
 After saving the plan, offer execution choice:
 
-**"Plan complete and saved to `docs/superpowers/plans/<filename>.md`. Two execution options:**
+**"Plan complete and saved to `docs/superpowers/plans/<filename>.md`. Three execution options:**
 
-**1. Subagent-Driven (recommended)** - I dispatch a fresh subagent per task, review between tasks, fast iteration
+**1. Agent Team (/agent-team)** - Create a long-lived team and assign plan tasks to multiple teammates for coordinated parallel execution
 
-**2. Inline Execution** - Execute tasks in this session using executing-plans, batch execution with checkpoints
+**2. Subagent-Driven** - I dispatch a fresh subagent per task, review between tasks, fast iteration
+
+**3. Inline Execution** - Execute tasks in this session using executing-plans, batch execution with checkpoints
 
 **Which approach?"**
+
+**If Agent Team chosen:**
+- **REQUIRED COMMAND:** Use /agent-team
+- Create a team and assign plan tasks to teammates for coordinated parallel execution
+- Best for long-running plans or when multiple teammates should work concurrently
 
 **If Subagent-Driven chosen:**
 - **REQUIRED SUB-SKILL:** Use superpowers:subagent-driven-development

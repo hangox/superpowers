@@ -1,6 +1,7 @@
 ---
 name: test-driven-development
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. RED-GREEN-REFACTOR test-driven development workflow."
+description: "RED-GREEN-REFACTOR test-driven development workflow."
+disable-model-invocation: true
 ---
 
 # Test-Driven Development (TDD)

@@ -1,6 +1,7 @@
 ---
 name: executing-plans
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Executes a written implementation plan with review checkpoints."
+description: "Executes a written implementation plan with review checkpoints."
+disable-model-invocation: true
 ---
 
 # Executing Plans

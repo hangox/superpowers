@@ -1,6 +1,7 @@
 ---
 name: using-git-worktrees
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Sets up an isolated workspace via native tools or git worktrees."
+description: "Sets up an isolated workspace via native tools or git worktrees."
+disable-model-invocation: true
 ---
 
 # Using Git Worktrees

@@ -1,6 +1,7 @@
 ---
 name: finishing-a-development-branch
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Presents structured options to merge, PR, or clean up finished work."
+description: "Presents structured options to merge, PR, or clean up finished work."
+disable-model-invocation: true
 ---
 
 # Finishing a Development Branch

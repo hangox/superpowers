@@ -1,6 +1,7 @@
 ---
 name: systematic-debugging
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Systematic root-cause workflow for bugs, test failures, and unexpected behavior."
+description: "Systematic root-cause workflow for bugs, test failures, and unexpected behavior."
+disable-model-invocation: true
 ---
 
 # Systematic Debugging

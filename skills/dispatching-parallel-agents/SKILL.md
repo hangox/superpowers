@@ -1,6 +1,7 @@
 ---
 name: dispatching-parallel-agents
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Coordinates 2+ independent tasks across parallel agents."
+description: "Coordinates 2+ independent tasks across parallel agents."
+disable-model-invocation: true
 ---
 
 # Dispatching Parallel Agents

@@ -1,6 +1,7 @@
 ---
 name: verification-before-completion
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Runs verification commands and confirms output before claiming success."
+description: "Runs verification commands and confirms output before claiming success."
+disable-model-invocation: true
 ---
 
 # Verification Before Completion

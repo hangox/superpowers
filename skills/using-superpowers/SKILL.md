@@ -1,6 +1,7 @@
 ---
 name: using-superpowers
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Index of available Superpowers skills and how to invoke them manually."
+description: "Index of available Superpowers skills and how to invoke them manually."
+disable-model-invocation: true
 ---
 
 <SUBAGENT-STOP>

@@ -1,6 +1,7 @@
 ---
 name: writing-skills
-description: "MANUAL ONLY — do not auto-invoke; run only when the user explicitly asks. Guidance for creating, editing, and verifying skills."
+description: "Guidance for creating, editing, and verifying skills."
+disable-model-invocation: true
 ---
 
 # Writing Skills
