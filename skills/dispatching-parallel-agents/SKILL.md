@@ -1,7 +1,6 @@
 ---
 name: dispatching-parallel-agents
 description: "Coordinates 2+ independent tasks across parallel agents."
-disable-model-invocation: true
 ---
 
 # Dispatching Parallel Agents

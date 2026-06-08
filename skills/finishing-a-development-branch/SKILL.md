@@ -1,7 +1,6 @@
 ---
 name: finishing-a-development-branch
 description: "Presents structured options to merge, PR, or clean up finished work."
-disable-model-invocation: true
 ---
 
 # Finishing a Development Branch

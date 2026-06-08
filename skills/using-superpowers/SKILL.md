@@ -1,7 +1,6 @@
 ---
 name: using-superpowers
 description: "Index of available Superpowers skills and how to invoke them manually."
-disable-model-invocation: true
 ---
 
 <SUBAGENT-STOP>

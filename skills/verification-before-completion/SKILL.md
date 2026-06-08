@@ -1,7 +1,6 @@
 ---
 name: verification-before-completion
 description: "Runs verification commands and confirms output before claiming success."
-disable-model-invocation: true
 ---
 
 # Verification Before Completion

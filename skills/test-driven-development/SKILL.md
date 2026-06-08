@@ -1,7 +1,6 @@
 ---
 name: test-driven-development
 description: "RED-GREEN-REFACTOR test-driven development workflow."
-disable-model-invocation: true
 ---
 
 # Test-Driven Development (TDD)

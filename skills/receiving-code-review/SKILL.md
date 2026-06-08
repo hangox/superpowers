@@ -1,7 +1,6 @@
 ---
 name: receiving-code-review
 description: "Processes code-review feedback with technical rigor and verification."
-disable-model-invocation: true
 ---
 
 # Code Review Reception

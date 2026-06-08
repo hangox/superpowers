@@ -1,7 +1,6 @@
 ---
 name: requesting-code-review
 description: "Requests verification that work meets requirements before merge."
-disable-model-invocation: true
 ---
 
 # Requesting Code Review

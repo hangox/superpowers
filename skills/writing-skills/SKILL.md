@@ -1,7 +1,6 @@
 ---
 name: writing-skills
 description: "Guidance for creating, editing, and verifying skills."
-disable-model-invocation: true
 ---
 
 # Writing Skills

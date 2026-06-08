@@ -1,7 +1,6 @@
 ---
 name: systematic-debugging
 description: "Systematic root-cause workflow for bugs, test failures, and unexpected behavior."
-disable-model-invocation: true
 ---
 
 # Systematic Debugging

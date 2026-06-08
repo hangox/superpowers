@@ -1,7 +1,6 @@
 ---
 name: executing-plans
 description: "Executes a written implementation plan with review checkpoints."
-disable-model-invocation: true
 ---
 
 # Executing Plans

@@ -1,7 +1,6 @@
 ---
 name: subagent-driven-development
 description: "Executes implementation plans with independent tasks via subagents."
-disable-model-invocation: true
 ---
 
 # Subagent-Driven Development

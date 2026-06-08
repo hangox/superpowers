@@ -1,7 +1,6 @@
 ---
 name: brainstorming
 description: "Explores user intent, requirements, and design before implementation."
-disable-model-invocation: true
 ---
 
 # Brainstorming Ideas Into Designs

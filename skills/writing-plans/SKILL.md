@@ -1,7 +1,6 @@
 ---
 name: writing-plans
 description: "Turns a spec or requirements into a written multi-step implementation plan."
-disable-model-invocation: true
 ---
 
 # Writing Plans

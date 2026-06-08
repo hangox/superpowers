@@ -1,7 +1,6 @@
 ---
 name: using-git-worktrees
 description: "Sets up an isolated workspace via native tools or git worktrees."
-disable-model-invocation: true
 ---
 
 # Using Git Worktrees
